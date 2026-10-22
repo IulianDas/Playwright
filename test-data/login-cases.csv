@@ -1,0 +1,3 @@
+name,email,password,expectedResult
+validCreds,customer@practicesoftwaretesting.com,welcome01,/account/
+invalidCreds,not-a-customer@practicesoftwaretesting.com,password,Invalid email or password
